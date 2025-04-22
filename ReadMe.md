@@ -8,10 +8,10 @@ La ciberseguridad es otra de mis grandes pasiones. Me fascina el mundo del pente
 ### Sistemas Operativos y Servidores
 <br>Soy un entusiasta de Linux, y disfruto personalizando y optimizando sistemas para aprovechar al máximo sus capacidades. También me interesa mucho el mundo de los servidores, y he trabajado con tecnologías como Docker, Jenkins, y Kubernetes para la automatización y el despliegue de aplicaciones en entornos de producción.<br>
 
-### 🌐 Bases de Datos
+### Bases de Datos
 <br>El manejo de bases de datos es fundamental en muchos de mis proyectos. Me interesa aprender cómo diseñar, implementar, y optimizar bases de datos para manejar grandes volúmenes de información de manera eficiente.<br><br>
 
-### 🌐 Más sobre mí ♫♬
+###  Más sobre mí 
 <br>Siempre estoy en busca de nuevos desafíos y oportunidades de aprendizaje. Me gusta colaborar en proyectos que me permitan expandir mis conocimientos y trabajar en equipo. Si tienes una idea interesante o te gustaría colaborar, ¡no dudes en contactarme!
 
 <!-- ## 🌐 Socials:
