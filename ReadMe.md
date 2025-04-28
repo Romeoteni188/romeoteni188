@@ -1,5 +1,5 @@
 # ⚡ About Me :
-Hola..! Mi nombre Es Erwin Tiul soy estudiante de Ingeniería en Sistemas , apasionado por el desarrollo de software y la tecnología en general. A lo largo de mi formación, he desarrollado habilidades en varias áreas y he trabajado con diversas tecnologías que me han permitido crear soluciones innovadoras y eficientes.
+Hola Mi nombre Es Erwin Tiul soy estudiante de Ingeniería en Sistemas , apasionado por el desarrollo de software y la tecnología en general. A lo largo de mi formación, he desarrollado habilidades en varias áreas y he trabajado con diversas tecnologías que me han permitido crear soluciones innovadoras y eficientes.
 <br>
  ### Desarrollo y Tecnologías 
 Me gusta trabajar en el desarrollo web y de aplicaciones móviles, especialmente utilizando Ionic, PHP, HTML, CSS, y JavaScript. Disfruto construyendo interfaces atractivas y funcionales, y optimizando el rendimiento para mejorar la experiencia del usuario. Me encanta explorar nuevas tecnologías y mantenerme actualizado en las tendencias del desarrollo.<br>
