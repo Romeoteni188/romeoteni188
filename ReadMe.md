@@ -1,4 +1,4 @@
-# ⚡⚡ About Me :
+# ⚡ About Me :
 Hola Mi nombre Es Erwin Tiul soy estudiante de Ingeniería en Sistemas , apasionado por el desarrollo de software y la tecnología en general. A lo largo de mi formación, he desarrollado habilidades en varias áreas y he trabajado con diversas tecnologías que me han permitido crear soluciones innovadoras y eficientes.
 <br>
  ### Desarrollo y Tecnologías 
