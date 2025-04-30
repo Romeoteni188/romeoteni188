@@ -1,18 +1,14 @@
 # ⚡ About Me :
-Hola Mi nombre Es Erwin Tiul soy estudiante de Ingeniería en Sistemas , apasionado por el desarrollo de software y la tecnología en general. A lo largo de mi formación, he desarrollado habilidades en varias áreas y he trabajado con diversas tecnologías que me han permitido crear soluciones innovadoras y eficientes.
+Hola Mi nombre Es Erwin Romeo T.T soy estudiante de Ingeniería en Sistemas , apasionado por el desarrollo de software y la tecnología en general. A lo largo de mi formación, he desarrollado habilidades en varias áreas y he trabajado con diversas tecnologías que me han permitido crear soluciones innovadoras y eficientes.
 <br>
- ### Desarrollo y Tecnologías 
-Me gusta trabajar en el desarrollo web y de aplicaciones móviles, especialmente utilizando Ionic, PHP, HTML, CSS, y JavaScript. Disfruto construyendo interfaces atractivas y funcionales, y optimizando el rendimiento para mejorar la experiencia del usuario. Me encanta explorar nuevas tecnologías y mantenerme actualizado en las tendencias del desarrollo.<br>
-### Ciberseguridad y Pentesting
+ ### Desarrollo y Tecnologías
+Me gusta trabajar en el desarrollo web y de aplicaciones móviles, especialmente utilizando Ionic, PHP, HTML, CSS, JavaScript. Disfruto construyendo interfaces atractivas y funcionales, y optimizando el rendimiento para mejorar la experiencia del usuario. Me encanta explorar nuevas tecnologías y mantenerme actualizado en las tendencias del desarrollo.<br>
+### Ciberseguridad
 La ciberseguridad es otra de mis grandes pasiones. Me fascina el mundo del pentesting y las prácticas de seguridad para proteger aplicaciones y sistemas. Tengo experiencia utilizando herramientas y técnicas para realizar análisis de seguridad, y estoy en constante aprendizaje para mejorar mis habilidades en esta área.<br>
 ### Sistemas Operativos y Servidores
-<br>Soy un entusiasta de Linux, y disfruto personalizando y optimizando sistemas para aprovechar al máximo sus capacidades. También me interesa mucho el mundo de los servidores, y he trabajado con tecnologías como Docker, Jenkins, y Kubernetes para la automatización y el despliegue de aplicaciones en entornos de producción.<br>
-
-### Bases de Datos
-<br>El manejo de bases de datos es fundamental en muchos de mis proyectos. Me interesa aprender cómo diseñar, implementar, y optimizar bases de datos para manejar grandes volúmenes de información de manera eficiente.<br><br>
-
-###  Más sobre mí 
-<br>Siempre estoy en busca de nuevos desafíos y oportunidades de aprendizaje. Me gusta colaborar en proyectos que me permitan expandir mis conocimientos y trabajar en equipo. Si tienes una idea interesante o te gustaría colaborar, ¡no dudes en contactarme!
+Soy un entusiasta de Linux, y disfruto personalizando y optimizando sistemas para aprovechar al máximo sus capacidades. También me interesa mucho el mundo de los servidores, y he trabajado con tecnologías como Docker, Jenkins, y Kubernetes para la automatización y el despliegue de aplicaciones en entornos de producción.<br>
+###  Más sobre mí
+Siempre estoy en busca de nuevos desafíos y oportunidades de aprendizaje. Me gusta colaborar en proyectos que me permitan expandir mis conocimientos y trabajar en equipo. Si tienes una idea interesante o te gustaría colaborar, ¡no dudes en contactarme!
 
 <!-- ## 🌐 Socials:
 # 😊  Tech Stack:
@@ -33,9 +29,3 @@ La ciberseguridad es otra de mis grandes pasiones. Me fascina el mundo del pente
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Romeoteni188&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
-
-
-
-
