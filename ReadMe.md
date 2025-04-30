@@ -1,4 +1,4 @@
-# ⚡ About Me :
+#  **About Me :**
 Hola Mi nombre Es Erwin Romeo T.T soy estudiante de Ingeniería en Sistemas , apasionado por el desarrollo de software y la tecnología en general. A lo largo de mi formación, he desarrollado habilidades en varias áreas y he trabajado con diversas tecnologías que me han permitido crear soluciones innovadoras y eficientes.
 <br>
  ### Desarrollo y Tecnologías
@@ -19,13 +19,6 @@ Siempre estoy en busca de nuevos desafíos y oportunidades de aprendizaje. Me gu
 ![](https://github-readme-stats.vercel.app/api?username=Romeoteni188&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Romeoteni188&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romeoteni188&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## ☀️ GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Romeoteni188&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Romeoteni188&limit=5&theme=radical&combine_all_yearly_contributions=true)
