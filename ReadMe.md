@@ -5,7 +5,7 @@ Hola Mi nombre Es Erwin Romeo  soy estudiante de Ingeniería en Sistemas , apasi
 Me gusta trabajar en el desarrollo web y de aplicaciones móviles, especialmente utilizando Ionic, PHP, HTML, CSS, JavaScript. Disfruto construyendo interfaces atractivas y funcionales, y optimizando el rendimiento para mejorar la experiencia del usuario. Me encanta explorar nuevas tecnologías y mantenerme actualizado en las tendencias del desarrollo.<br>
 ### Ciberseguridad
 La ciberseguridad es otra de mis grandes pasiones. Me fascina el mundo del pentesting y las prácticas de seguridad para proteger aplicaciones y sistemas. Tengo experiencia utilizando herramientas y técnicas para realizar análisis de seguridad, y estoy en constante aprendizaje para mejorar mis habilidades en esta área.<br>
-### Sistemas Operativos y Servidores
+### Sistemas Operativos y Servidores>!
 Soy un entusiasta de Linux, y disfruto personalizando y optimizando sistemas para aprovechar al máximo sus capacidades. También me interesa mucho el mundo de los servidores, y he trabajado con tecnologías como Docker, Jenkins, y Kubernetes para la automatización y el despliegue de aplicaciones en entornos de producción.<br>
 ###  Más sobre mí
 Siempre estoy en busca de nuevos desafíos y oportunidades de aprendizaje. Me gusta colaborar en proyectos que me permitan expandir mis conocimientos y trabajar en equipo. Si tienes una idea interesante o te gustaría colaborar, ¡no dudes en contactarme!
