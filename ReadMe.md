@@ -6,11 +6,22 @@ Cybersecurity is another one of my great passions. I am fascinated by the world 
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-005aa7?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+<!-- <div style="display: flex; justify-content: center; gap: 10px;"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Romeoteni188&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="150" /> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romeoteni188&theme=github_dark&hide_border=false" height="150" /> -->
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romeoteni188&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/> -->
+<!-- </div> -->
 
-![](https://github-readme-stats.vercel.app/api?username=Romeoteni188&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Romeoteni188&theme=github_dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romeoteni188&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### **Top Contributed Repo**
+### Evolución de commits
 
-![](https://github-contributor-stats.vercel.app/api?username=Romeoteni188&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div align="center">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Romeoteni188&theme=tokyo-night&hide_border=true&area=true&custom_title=Evoluci%C3%B3n%20de%20commits&bg_color=00000000"
+  alt="Gráfico de actividad de commits"
+/>
+
+
+<!-- ### **Top Contributed Repo** -->
+<!---->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=Romeoteni188&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
