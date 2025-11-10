@@ -4,8 +4,11 @@ Hello, my name is Erwin Romeo T.T. I am a Systems Engineering student, passionat
 ### **Cybersecurity**
 Cybersecurity is another one of my great passions. I am fascinated by the world of penetration testing and security practices to protect applications and systems. I have experience using tools and techniques to perform security analyses, and I am constantly learning to improve my skills in this field.
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-005aa7?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-005aa7?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+</p>
+
 <!-- <div style="display: flex; justify-content: center; gap: 10px;"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Romeoteni188&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="150" /> -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romeoteni188&theme=github_dark&hide_border=false" height="150" /> -->
