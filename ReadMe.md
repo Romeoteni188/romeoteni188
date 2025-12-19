@@ -1,13 +1,22 @@
-# **About Me :**
-Hello, my name is Erwin Romeo T.T. I am a Systems Engineering student, passionate about software development and technology in general. Throughout my education, I have developed skills in various areas and worked with different technologies, allowing me to create innovative and efficient solutions.
+# DevSecOps /  Systems Engineering Student
 
-### **Cybersecurity**
-Cybersecurity is another one of my great passions. I am fascinated by the world of penetration testing and security practices to protect applications and systems. I have experience using tools and techniques to perform security analyses, and I am constantly learning to improve my skills in this field.
+**I build secure backend systems and automate security controls across the development lifecycle.
+Focused on backend development, infrastructure, and offensive security tooling.**
+
+Experience:
+- Backend: Node.js, NestJS, Next.js
+- DevSecOps: Docker, CI/CD pipelines, Linux automation
+- Security: OSINT, vulnerability scanning, pentesting tooling
+- Data processing & system integration: XML, APIs
+
+I create practical tools for developers and security teams, focused on real-world use cases.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-005aa7?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Linux-Kernel-black?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-005aa7?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
+
 
 <!-- <div style="display: flex; justify-content: center; gap: 10px;"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Romeoteni188&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="150" /> -->
