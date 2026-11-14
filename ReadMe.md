@@ -1,4 +1,4 @@
-# Software Engineer | DevSecOps
+# Software DevSecOps
 
 **I design, develop, and deploy secure, scalable software systems. My work spans full-stack development, software architecture, infrastructure, automation, and security throughout the software development lifecycle.**
 
